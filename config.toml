@@ -1,4 +1,5 @@
-baseURL = "https://supeterlau.github.io/today_i_learn/"
+# baseURL = "https://supeterlau.github.io/today_i_learn/"
+baseURL = "https://til.peterlau.xyz"
 languageCode = "en-us"
 title = "Ink"
 theme = "hugo-ink"
