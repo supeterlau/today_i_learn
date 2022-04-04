@@ -1,5 +1,5 @@
 # baseURL = "https://supeterlau.github.io/today_i_learn/"
-baseURL = "https://til.peterlau.xyz"
+baseURL = "https://til.peterlau.xyz/"
 languageCode = "en-us"
 title = "Ink"
 theme = "hugo-ink"
@@ -11,8 +11,8 @@ pygmentsstyle = "vs"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-googleAnalytics = "UA-123-45"
-disqusShortname = "ink-demo"
+# googleAnalytics = "UA-123-45"
+# disqusShortname = "ink-demo"
 
 [params]
 	subtitle = "Crisp, minimal personal [blog theme for Hugo](https://github.com/knadh/hugo-ink)"
