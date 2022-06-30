@@ -1,4 +1,22 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Today I Learn</title><link>https://til.peterlau.xyz/posts/</link><description>Recent content in Posts on Today I Learn</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Copyright peterlau</copyright><lastBuildDate>Thu, 05 May 2022 23:30:39 +0800</lastBuildDate><atom:link href="https://til.peterlau.xyz/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Links 2022_05_05</title><link>https://til.peterlau.xyz/posts/2022-05-05/</link><pubDate>Thu, 05 May 2022 23:30:39 +0800</pubDate><guid>https://til.peterlau.xyz/posts/2022-05-05/</guid><description>https://zetcode.com/db/mysqlc/
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Today I Learn</title><link>https://til.peterlau.xyz/posts/</link><description>Recent content in Posts on Today I Learn</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Copyright peterlau</copyright><lastBuildDate>Thu, 30 Jun 2022 18:50:01 +0800</lastBuildDate><atom:link href="https://til.peterlau.xyz/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Swap Tmux Pane</title><link>https://til.peterlau.xyz/posts/swap-tmux-pane/</link><pubDate>Thu, 30 Jun 2022 18:50:01 +0800</pubDate><guid>https://til.peterlau.xyz/posts/swap-tmux-pane/</guid><description>https://superuser.com/questions/879190/how-does-one-swap-two-panes-in-tmux
+into tmux command:
+Prefix + : (Prefix + SHIFT + ;)
+By default, prefix is Ctrl+b
+in my case, it&amp;rsquo;s Ctrl+x
+Prefix + q : show pane ID
+swap pane id 3 to id 4
+&amp;gt; swap-pane -s3 -t4
+DONE.</description></item><item><title>Links: 2022_05_06</title><link>https://til.peterlau.xyz/posts/2022-05-06/</link><pubDate>Fri, 06 May 2022 23:36:08 +0800</pubDate><guid>https://til.peterlau.xyz/posts/2022-05-06/</guid><description>https://soft-builder.com/how-to-list-all-schemas-in-postgresql
+https://www.educba.com/postgresql-auto-increment
+https://www.datacamp.com/tutorial/beginners-introduction-postgresql
+https://soft-builder.com/how-to-list-all-schemas-in-postgresql
+https://ubiq.co/database-blog/how-to-list-databases-and-tables-in-postgresql/
+https://flaviocopes.com/postgres-how-to-list-all-databases/
+https://flaviocopes.com/cron-job-nodejs-app/
+https://www.postgresqltutorial.com/
+https://github.com/rime/librime Rime Input Method Engine, the core library
+https://typeorm.io/#quick-start
+https://betterprogramming.pub/build-an-nft-collection-using-flutter-6df928e5f742 Build an NFT Collection using Flutter</description></item><item><title>Links 2022_05_05</title><link>https://til.peterlau.xyz/posts/2022-05-05/</link><pubDate>Thu, 05 May 2022 23:30:39 +0800</pubDate><guid>https://til.peterlau.xyz/posts/2022-05-05/</guid><description>https://zetcode.com/db/mysqlc/
 https://www.infoq.com/news/2022/05/java-news-roundup-apr25-2022
 https://electronics.stackexchange.com/questions/22410/how-does-division-occur-in-our-computers
 https://www.geeksforgeeks.org/division-without-using-operator
