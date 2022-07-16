@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Today I Learn</title><link>https://til.peterlau.xyz/</link><description>Recent content on Today I Learn</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>© Copyright peterlau</copyright><lastBuildDate>Sat, 16 Jul 2022 13:49:29 +0800</lastBuildDate><atom:link href="https://til.peterlau.xyz/index.xml" rel="self" type="application/rss+xml"/><item><title>Mac OS X &amp; macOS</title><link>https://til.peterlau.xyz/posts/macos/</link><pubDate>Sat, 16 Jul 2022 13:49:29 +0800</pubDate><guid>https://til.peterlau.xyz/posts/macos/</guid><description>Enter recovery mode hold Command + R when starting up mac.
 https://macpaw.com/how-to/start-up-mac-in-recovery-mode
-Show hidden files in Finder Shift + CMD + .</description></item><item><title>Self Signed Tls Phoenix via Caddy</title><link>https://til.peterlau.xyz/posts/self-signed-tls-phoenix-via-caddy/</link><pubDate>Mon, 04 Jul 2022 14:03:32 +0800</pubDate><guid>https://til.peterlau.xyz/posts/self-signed-tls-phoenix-via-caddy/</guid><description>In case you need local https support, and no other ways to config chrome.
+Show hidden files in Finder Shift + CMD + .
+latest macOS macOS 12: Monterey (Star) – October 25, 2021 (Latest: 12.4)
+macOS 13: Ventura – Coming fall 2022
+https://www.macworld.com/article/672681/list-of-all-macos-versions-including-the-latest-macos.html</description></item><item><title>Self Signed Tls Phoenix via Caddy</title><link>https://til.peterlau.xyz/posts/self-signed-tls-phoenix-via-caddy/</link><pubDate>Mon, 04 Jul 2022 14:03:32 +0800</pubDate><guid>https://til.peterlau.xyz/posts/self-signed-tls-phoenix-via-caddy/</guid><description>In case you need local https support, and no other ways to config chrome.
 Maybe you can use caddy as reverse proxy for phoenix.
 Caddyfile:
 https://localhost:5000 { reverse_proxy 127.0.0.1:4000 } Next: install caddy self-signed cert file on your OS.
