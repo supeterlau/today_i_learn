@@ -1,0 +1,34 @@
+---
+title: "Python |> Custom Environment for your Python Subprocess"
+date: 2020-07-22T20:38:29+08:00
+draft: false
+author: "qaRabbit"
+tags: ["Python",]
+summary: "Yeah, you can custom your own Python subprocess env"
+images: 
+- https://images.pexels.com/photos/844297/pexels-photo-844297.jpeg
+---
+
+<hr>
+
+
+Yestorday, I found a script in build tools execute git without using my custom proxies.
+
+After dug into the Python script, I had to find a way to set custom environment for `subprocess.Pope`n or `subprocess.check_call`
+
+{{<highlight python>}}
+import subprocess, os
+proxy_env = os.environ.copy()
+proxy_env["HTTP_PROXY"] = "http://host:port"
+proxy_env["HTTPS_PROXY"] = "http://host:port"
+subprocess.Popen(some_command, env=proxy_env)
+{{</highlight>}}
+
+<hr>
+
+*Reference*:
+
+{{< ref 
+"https://stackoverflow.com/questions/2231227/python-subprocess-popen-with-a-modified-environment"
+ >}}
+

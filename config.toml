@@ -67,3 +67,4 @@ url = "/index.xml"
 
 [taxonomies]
    tag = "tags"
+   series = "series"

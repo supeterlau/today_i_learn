@@ -1,0 +1,32 @@
+---
+title: "MAC |> Install GnuPG on Mac"
+date: 2020-06-01T00:02:55+08:00
+draft: false
+author: "qaRabbit"
+tags: ["MAC","GnuPG","Homebrew"]
+summary: "Install GnuPG to verify the authenticity of the downloaded archives"
+
+---
+
+> IF YOU JUST SOLVED SOME PROBLEM, WELCOME TO SHARE WITH THE WORLD. YOU CAN DM **qaRabbit** ON [TWITTER](https://twitter.com/qaRabbitx), OR CREATE A PULL REQUEST IN [GITHUB REPO](https://github.com/supeterlau/quickanswer).
+
+<hr>
+
+Got a message when I tried to install NodeJS via asdf.
+
+> You should install GnuPG to verify the authenticity of the downloaded archives: https://www.gnupg.org/
+
+BTW, how can I do that?
+
+That's easy. Just try:
+
+`brew install gnupg`
+
+<hr>
+
+*Reference*:
+
+{{< ref 
+"https://help.runbox.com/installing-gpg-os-x-gpg-tools/"
+"https://formulae.brew.sh/formula/gnupg"
+ >}}
