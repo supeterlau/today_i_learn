@@ -1,0 +1,30 @@
+---
+title: "Cloudflare |> Error 526 Invalid SSL Certificate"
+date: 2020-08-25T20:08:59+08:00
+lastmod: 2020-08-25T20:08:59+08:00
+draft: false
+author: "qaRabbit"
+tags: ["Cloudflare", "SSL"]
+summary: "Set SSL mode to Full"
+images: 
+- https://images.pexels.com/photos/3789871/pexels-photo-3789871.jpeg
+---
+
+<hr>
+
+> IF YOU JUST SOLVED SOME PROBLEM, WELCOME TO DM **qaRabbit** ON [TWITTER](https://twitter.com/qaRabbitx), OR CREATE A PULL REQUEST IN [GITHUB REPO](https://github.com/supeterlau/quickanswer).
+
+**Set SSL mode to Full**
+
+Full (strict) -> Full
+
+<hr>
+
+*Reference*:
+
+{{< ref 
+"https://community.cloudflare.com/t/error-526-invalid-ssl-certificate/60879"
+\>}}
+
+<!-- {{<highlight zsh>}}
+{{</highlight>}} -->
